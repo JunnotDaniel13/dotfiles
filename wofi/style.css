@@ -1,68 +1,67 @@
 @import "/home/junnot/.config/themes/catppuccin-mocha.css";
 
 window {
-margin: 5px;
-background-color: @crust;
-opacity: 0.9;
-border-radius: 10;
+  margin: 5px;
+  background-color: @crust;
+  opacity: 0.9;
+  border-radius: 10;
 }
 
 #outer-box {
-margin: 5px;
-/* border: 2px solid @maroon; */
-background-color: @mantle;
-border-radius: 10;
+  margin: 5px;
+  /* border: 2px solid @maroon; */
+  background-color: @mantle;
+  border-radius: 10;
 }
 
 #input {
-margin: 2px;
-border: 2px solid @lavender;
-background-color: @surface0;
-color: #f8f8f2;
-font-size: 18px;
+  margin: 2px;
+  border: 2px solid @lavender;
+  background-color: @surface0;
+  color: #f8f8f2;
+  font-size: 18px;
 }
 
 #inner-box {
-/* margin: 5px; */
-background-color: @base;
+  /* margin: 5px; */
+  background-color: @base;
 }
 
 #scroll {
-margin: 2px;
-border: 2px solid @pink;
-background-color: @base;
-font-size: 16px;
-color: #f8f8f2;
-border-radius: 10;
+  margin: 2px;
+  border: 2px solid @pink;
+  background-color: @base;
+  font-size: 16px;
+  color: #f8f8f2;
+  border-radius: 10;
 }
 
 #scroll label {
-margin: 2px 0px;
+  margin: 2px 0px;
 }
 
 #entry {
-margin: 0px 2px;
-background-color: @base;
-border: 2px;
+  margin: 0px 2px;
+  background-color: @base;
+  border: 2px;
 }
 #entry:selected {
-background-color: @surface1;
-/* border: 2px solid @mauve; */
+  background-color: @surface1;
+  /* border: 2px solid @mauve; */
 }
 
 #img {
-margin: 5px;
+  margin: 5px;
 }
 #img:selected {
-background-color: @surface1;
+  background-color: @surface1;
 }
 
 #text {
-margin: 5px;
-border: none;
-color: @text;
+  margin: 5px;
+  border: none;
+  color: @text;
 }
 #text:selected {
-background-color: @surface1;
+  background-color: @surface1;
 }
-
