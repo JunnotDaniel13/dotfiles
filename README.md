@@ -1,5 +1,5 @@
 # install
 
 ```bash
-  yay -S rofi wofi polybar waybar wlogout swaylock hyprpaper
+  yay -S rofi wofi polybar waybar wlogout swaylock hyprpaper starship
 ```
