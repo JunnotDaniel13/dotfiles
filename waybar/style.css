@@ -1,12 +1,12 @@
 * {
-  font-family: "JetBrains Mono Nerd Font";
+  font-family: "Caskaydia Cove Nerd Font";
   /*font-family: "JetBrainsMono Nerd Font";*/
   font-weight: bold;
   font-size: 15px;
 }
 
 #custom-notification {
-  font-family: "JetBrains Mono Nerd Font";
+  font-family: "Caskaydia Cove Nerd Font";
   font-size: 17px;
   color: #a1bdce;
   margin: 2px 0px 0px 0px;
@@ -176,7 +176,7 @@ tooltip {
   color: #a1bdce;
   font-size: 15px;
   font-weight: 900;
-  font-family: "JetBrains Mono Nerd Font";
+  font-family: "Caskaydia Cove Nerd Font";
   background: rgba(23, 23, 23, 0);
   opacity: 1;
   margin: 3px 0px 0px 0px;

@@ -9,7 +9,7 @@
 # -----------------------------------------------------
 
 ignore-empty-password
-font="Inconsolata Nerd Font"
+font="Caskaydia Cove Nerd Font"
 
 clock
 timestr=%R
