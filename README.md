@@ -1,5 +1,5 @@
 # install
 
 ```bash
-  yay -S rofi wofi polybar waybar hyprpaper starship
+  yay -S sddm rofi wofi polybar waybar hyprpaper starship xdg-desktop-portal-hyprland
 ```
