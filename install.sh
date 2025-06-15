@@ -6,4 +6,5 @@ rm -rf ~/.config/wofi && ln -s ~/dotfiles/wofi ~/.config
 rm -rf ~/.config/themes && ln -s ~/dotfiles/themes ~/.config
 rm -rf ~/.config/backgrounds && ln -s ~/dotfiles/backgrounds ~/.config
 rm -rf ~/.config/waybar && ln -s ~/dotfiles/waybar ~/.config
+rm -rf ~/.config/swappy && ln -s ~/dotfiles/swappy ~/.config
 rm -rf ~/.config/xdg-desktop-portal && ln -s ~/dotfiles/xdg-desktop-portal ~/.config
